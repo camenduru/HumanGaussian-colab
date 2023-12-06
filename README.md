@@ -19,3 +19,4 @@ https://alvinliu0.github.io/projects/HumanGaussian
 
 ## Output
 
+https://github.com/camenduru/HumanGaussian-colab/assets/54370274/3116dce3-7306-4152-af5d-01f13b9d000f
