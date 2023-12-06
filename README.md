@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HumanGaussian-colab/blob/main/HumanGaussian_colab.ipynb) | HumanGaussian_colab (Pro Colab 😭)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HumanGaussian-colab/blob/main/HumanGaussian_colab.ipynb) | HumanGaussian_colab (Pro Colab A100 ~32GB 😭)
 
 ## Main Repo
 https://github.com/alvinliu0/HumanGaussian
